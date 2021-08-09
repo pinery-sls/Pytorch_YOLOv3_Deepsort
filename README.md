@@ -2,7 +2,7 @@
  Yolov3 and Deepsort
 
 
-![demo](yolov3_deepsort_demo.gif)
+![demo](demo_yolov3_deepsort.gif)
 
 ## Tracking sources
 
